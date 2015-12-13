@@ -1,0 +1,2 @@
+# neovim
+Anthos Neovim config
